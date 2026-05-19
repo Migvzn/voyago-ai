@@ -1,5 +1,7 @@
 # Voyago.ai
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FMigvzn%2Fvoyago-ai&env=GEMINI_API_KEY&envDescription=Cl%C3%A9%20Google%20Gemini%20gratuite&envLink=https%3A%2F%2Faistudio.google.com%2Fapp%2Fapikey&project-name=voyago-ai&repository-name=voyago-ai)
+
 Site de voyage avec calculateur de budget et assistant IA **Voya** propulsé par **Google Gemini 2.5 Flash** (gratuit).
 
 Voya extrait les paramètres de voyage du langage naturel français et génère des suggestions concrètes :
